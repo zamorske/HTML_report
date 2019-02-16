@@ -36,12 +36,15 @@
   }
 
   /* h2 heading tags */
-  h2 {
+  div class="container-fluid" {
     /* Put a 15-pixel margin at the top of all h2 headings. */
     margin-top: 15px;
     margin-bottom: 15px;
     font-size: 40px;
     text-align: center;
+    color: orange;
+    /* Bold the text. */
+    font-weight: bold;
   }
 
   /* h3 heading tags */
